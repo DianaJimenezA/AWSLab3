@@ -1,2 +1,2 @@
-# AWSLab3
-Infraestructura en Alta Disponibilidad con NGINX usando AWS CloudFormation
+# Infraestructura en Alta Disponibilidad con NGINX usando AWS CloudFormation
+Laboratorio acerca de la utilización de AWS CloudFormation para automatizar la creación de recursos mediante archivos con extensión .yml. Esta práctica facilita el despliegue y evita tareas repetitivas. Observacion acerca del funcionamiento del balanceador de carga en AWS, que distribuye el tráfico eficientemente. Funcionamiento de la herramienta Designer de CloudFormation, que permite visualizar y diseñar plantillas. En general, es una experiencia útil para comprender la infraestructura como código.
